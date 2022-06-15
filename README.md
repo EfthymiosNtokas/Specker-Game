@@ -12,6 +12,7 @@ The class State, is used for the representation of the states of the game.
 The class Player, is used for the rperesentation of the payers of the game.
 
 There are 4 types of players:
+
 Greedy: He always picks the largest heap, removes all of its coins and does not
 put any coins back.
 
